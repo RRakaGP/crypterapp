@@ -96,14 +96,7 @@ const QuickResponseCode = (props) => {
               level={"M"}
               includeMargin={true}
               renderAs={"canvas"}
-              imageSettings={{
-                src: "/assets/icons/qr-logo.png",
-                x: null,
-                y: null,
-                height: 40,
-                width: 40,
-                excavate: false,
-              }}
+              
             />
           </div>
 
