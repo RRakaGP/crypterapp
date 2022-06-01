@@ -1,13 +1,11 @@
 import en_US from "./en_US";
-import fr_FR from "./fr_FR";
-import de_DE from "./de_DE";
-import it_IT from "./it_IT";
+import ta_TA from "./ta_TA";
+import te_TE from "./it_TE";
 
 const locales = {
-  en_US,
-  fr_FR,
-  de_DE,
-  it_IT
+  te_TE,
+  ta_TA,
+  en_US
 };
 
 export default locales;
