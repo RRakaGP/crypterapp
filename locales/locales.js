@@ -1,6 +1,6 @@
 import en_US from "./en_US";
 import ta_TA from "./ta_TA";
-import te_TE from "./it_TE";
+import te_TE from "./te_TE";
 
 const locales = {
   te_TE,
