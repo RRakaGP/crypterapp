@@ -1,5 +1,5 @@
 const te_TE = {
-    language_name: "Telugu",
+    language_name: "తెలుగు",
     
     // Menu
     sub_title: "సరళమైన, వేగవంతమైన, సురక్షితమైన క్లయింట్ వైపు ఫైల్ ఎన్‌క్రిప్షన్",

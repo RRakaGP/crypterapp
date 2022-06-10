@@ -1,5 +1,5 @@
 const ta_TA = {
-    language_name: "Tamil",
+    language_name: "தமிழ்",
     
     // Menu
     sub_title: "எளிய, வேகமான, பாதுகாப்பான கிளையன்ட் பக்க கோப்பு குறியாக்கம்",
